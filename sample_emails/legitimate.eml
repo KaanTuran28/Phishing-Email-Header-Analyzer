@@ -1,0 +1,18 @@
+Date: Mon, 17 Aug 2026 09:12:00 +0300
+From: "ExampleBank Notifications" <notifications@examplebank.example>
+To: "Jane Doe" <jane.doe@example.com>
+Reply-To: "ExampleBank Notifications" <notifications@examplebank.example>
+Return-Path: <notifications@examplebank.example>
+Subject: Your monthly account statement is ready
+Message-ID: <20260817091200.1@examplebank.example>
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=examplebank.example; dkim=pass header.d=examplebank.example; dmarc=pass header.from=examplebank.example
+Content-Type: text/plain; charset="utf-8"
+
+Hello Jane,
+
+Your monthly account statement for August 2026 is now available in your
+online banking portal. Log in through our official website to view it.
+
+Thank you for banking with us.
+
+ExampleBank Customer Service

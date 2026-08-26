@@ -1,0 +1,17 @@
+Date: Wed, 19 Aug 2026 14:05:00 +0300
+From: "Contoso Newsletter" <newsletter@contoso.example>
+To: "Jane Doe" <jane.doe@example.com>
+Reply-To: "Marketing Team" <marketing@contoso-mailer.example>
+Return-Path: <newsletter@contoso.example>
+Subject: This week at Contoso
+Message-ID: <20260819140500.1@contoso.example>
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=contoso.example; dkim=fail header.d=contoso.example; dmarc=pass header.from=contoso.example
+Content-Type: text/plain; charset="utf-8"
+
+Hi Jane,
+
+Here is your weekly roundup of updates from Contoso. No action is
+required — this is an informational newsletter.
+
+See you next week,
+Contoso Newsletter Team

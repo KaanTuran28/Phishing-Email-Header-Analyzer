@@ -1,0 +1,18 @@
+Date: Tue, 18 Aug 2026 03:47:00 +0300
+From: "ExampleBank Security Team" <alert@secure-verify-example-mail.example>
+To: "Jane Doe" <jane.doe@example.com>
+Reply-To: "Support Desk" <reply@another-domain.example>
+Return-Path: <bounce@yet-another-domain.example>
+Subject: URGENT: Your account will be suspended - verify now
+Message-ID: <20260818034700.1@secure-verify-example-mail.example>
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=secure-verify-example-mail.example; dkim=fail header.d=secure-verify-example-mail.example; dmarc=fail header.from=secure-verify-example-mail.example
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account will be
+suspended within 24 hours unless you verify your identity immediately.
+
+Click here to confirm your identity and avoid suspension.
+
+ExampleBank Security Team
